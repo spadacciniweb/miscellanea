@@ -36,8 +36,10 @@ Theory and examples on the topics below:
 - version control:
   - [Git](version_control/Git/README.md)
 - [Tools](tools/README.md)
+- [electronics](electronics/README.md)
+    
 
-## Link utili
+## useful links
 
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 - [.vimrc](https://github.com/vincenzoargese/vimrc)
