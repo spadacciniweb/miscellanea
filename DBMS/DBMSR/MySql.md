@@ -3,6 +3,7 @@
 ## Approfondimenti
 
 - [MariaDB window function](https://mariadb.com/kb/en/window-functions-overview/)
+- [I spent 4 hours restoring a backup for one deleted row](https://blog.dbtrail.com/i-spent-4-hours-restoring-a-backup-for-one-deleted-row/)
 
 
 ### Slides
