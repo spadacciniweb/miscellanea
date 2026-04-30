@@ -38,15 +38,20 @@ Elenco di moduli interessanti con approfondimento:
   - [Quick Start](https://perldancer.org/quickstart)
   - [Tutorial](https://metacpan.org/dist/Dancer2/view/lib/Dancer2/Tutorial.pod)
   - [Manual](https://metacpan.org/dist/Dancer2/view/lib/Dancer2/Manual.pod)
+  - [Dancer2 + Dancer2::Plugin::DBIC::Async + HTMX](https://theweeklychallenge.org/blog/dancer2-dbic-async-htmx/)
 - ORM:
   - DBIx::Class:
     - [Intro](https://metacpan.org/dist/DBIx-Class/view/lib/DBIx/Class/Manual/Intro.pod)
     - [main POD](https://metacpan.org/pod/DBIx::Class)
-    - [DBIx::Class::Async](https://theweeklychallenge.org/blog/dbix-class-async/) - [update](https://theweeklychallenge.org/blog/dbix-class-async-update/)
-- Mojolicious and Docker:
-  - [via DragosTrif](https://dev.to/dragostrif/mojolicious-and-docker-939)
-  - [via github](https://github.com/Tekki/docker-mojolicious)
-  - [via perlmaven](https://perlmaven.com/hello-world-with-mojolicious-in-docker)
+    - [Result Class & ResultSet Class](https://theweeklychallenge.org/blog/dbic-resultset/)
+    - [Schema Class](https://theweeklychallenge.org/blog/dbic-schema/)
+    - [DBIx::Class::Async](https://theweeklychallenge.org/blog/dbix-class-async/) - [update](https://theweeklychallenge.org/blog/dbix-class-async-update/) - [evolution](https://theweeklychallenge.org/blog/dbix-class-async-evolution/)
+- Mojolicious:
+  - [Mojolicious with WebSocket](https://theweeklychallenge.org/blog/mojo-with-websocket/)
+  - Mojolicious and Docker:
+    - [via DragosTrif](https://dev.to/dragostrif/mojolicious-and-docker-939)
+    - [via github](https://github.com/Tekki/docker-mojolicious)
+    - [via perlmaven](https://perlmaven.com/hello-world-with-mojolicious-in-docker)
 - [Memory leak](https://theweeklychallenge.org/blog/memory-leak/)
 - new module:
     - [perlnewmod](https://perldoc.perl.org/perlnewmod)
